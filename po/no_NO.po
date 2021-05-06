@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Tilgjengelighet"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Tilgjengelig"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Borte"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Opptatt"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Logg av"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Ikke forstyrr"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Usynlig"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Frakoblet"
+
+msgid "pres_bd_jabber_online"
+msgstr "Tilkoblet"
+
+msgid "pres_bd_location"
+msgstr "Min posisjon"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Tilgjengelig"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Ikke forstyrr"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Frakoblet"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Ny status"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Rediger status"
+
+msgid "pres_bd_sip_offline"
+msgstr "Frakoblet"
+
+msgid "pres_bd_sip_online"
+msgstr "Tilkoblet"
+
+msgid "pres_bd_skype_away"
+msgstr "Borte"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Ikke forstyrr"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Usynlig"
+
+msgid "pres_bd_skype_offline"
+msgstr "Frakoblet"
+
+msgid "pres_bd_skype_online"
+msgstr "Tilkoblet"
+
+msgid "pres_fi_accounts"
+msgstr "Kontoer"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Du kan bare ha én aktiv %s-konto. Aktivere %s og deaktivere andre?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Ikke vis neste gang"
+
+msgid "pres_fi_location_level_city"
+msgstr "Storbynivå"
+
+msgid "pres_fi_location_level_district"
+msgstr "Områdenivå"
+
+msgid "pres_fi_location_level_none"
+msgstr "Ikke vis"
+
+msgid "pres_fi_location_level_street"
+msgstr "Gatenivå"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Plassering inngår som en del av statusmeldingen og deles med kontakter i "
+"alle tjenester du er pålogget som har støtte for statusmeldinger. \n"
+"\n"
+"Les gjeldende vilkår for bruk før du tar i bruk en slik tjeneste."
+
+msgid "pres_fi_new_status_name"
+msgstr "Navn"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Angi statusnavnet her"
+
+msgid "pres_fi_status_busy"
+msgstr "Opptatt"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Skriv inn statusmeldingen din"
+
+msgid "pres_fi_status_offline"
+msgstr "Frakoblet"
+
+msgid "pres_fi_status_online"
+msgstr "Tilkoblet"
+
+msgid "pres_ib_authentication_error"
+msgstr "Feil passord"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL-sertifikatet er utløpt"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Fingeravtrykk samsvarer ikke for SSL-sertifikatet"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL-sertifikatfeil"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "SSL-sertifikatet er ikke godkjent"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL-sertifikatet er ikke aktivert"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "Finner ikke SSL-sertifikatet"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL-sertifikatet er selvsignert"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Kan ikke klarere SSL-sertifikatet"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Plassering vises ikke i statusmelding"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Plassering vises i statusmelding"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Internett-tilkobling kreves"
+
+msgid "pres_ib_must_be_online"
+msgstr "Du må være tilkoblet for å utføre denne handlingen."
+
+msgid "pres_ib_network_error"
+msgstr "Nettverket er frakoblet"
+
+msgid "pres_ib_server_error"
+msgstr "Tjenesten svarer ikke"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Kan ikke koble til én eller flere kontoer"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Godkjenning mislyktes."
+
+msgid "pres_li_encryption_error"
+msgstr "Krypteringsfeil"
+
+msgid "pres_li_error_certificate"
+msgstr "Sertifikatfeil"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Kontoen er i bruk"
+
+msgid "pres_li_network_error"
+msgstr "Nettfeil"
+
+msgid "pres_nc_delete_status"
+msgstr "Slette statusen %s?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Oppgi statusnavn"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Statusnavnet finnes allerede. Oppgi en annen status."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Tilgjengelighet"
+
+msgid "pres_ti_edit_status"
+msgstr "Rediger status"
+
+msgid "pres_ti_location_level_title"
+msgstr "Min posisjon"
+
+msgid "pres_ti_new_status"
+msgstr "Ny status"
+
+msgid "pres_ti_select_icon"
+msgstr "Velg ikon"
+
+msgid "pres_ti_select_status"
+msgstr "Velg status for redigering"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Min tilgjengelighet"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Tilgjengelighet"

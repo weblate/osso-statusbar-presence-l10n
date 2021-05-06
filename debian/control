@@ -1,0 +1,119 @@
+Source: osso-statusbar-presence-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-statusbar-presence-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-statusbar-presence-l10n-mr
+Depends: osso-statusbar-presence-l10n-ruru, osso-statusbar-presence-l10n-frfr, osso-statusbar-presence-l10n-frca, osso-statusbar-presence-l10n-dadk, osso-statusbar-presence-l10n-itit, osso-statusbar-presence-l10n-svse, osso-statusbar-presence-l10n-nono, osso-statusbar-presence-l10n-fifi, osso-statusbar-presence-l10n-nlnl, osso-statusbar-presence-l10n-enus, osso-statusbar-presence-l10n-dede, osso-statusbar-presence-l10n-esmx, osso-statusbar-presence-l10n-eses, osso-statusbar-presence-l10n-cscz, osso-statusbar-presence-l10n-ptpt, osso-statusbar-presence-l10n-engb, osso-statusbar-presence-l10n-plpl
+Description: osso-statusbar-presence marketing release package
+ This is a metapackage for osso-statusbar-presence to pull all the l10n packages.
+ Application developers of osso-statusbar-presence should depend on
+ "osso-statusbar-presence-l10n-mr0 | osso-statusbar-presence-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-statusbar-presence-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (cs_CZ)
+ Language files for cs_CZ osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (da_DK)
+ Language files for da_DK osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (de_DE)
+ Language files for de_DE osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (en_GB)
+ Language files for en_GB osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (en_US)
+ Language files for en_US osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (es_ES)
+ Language files for es_ES osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (es_MX)
+ Language files for es_MX osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (fi_FI)
+ Language files for fi_FI osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (fr_CA)
+ Language files for fr_CA osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (fr_FR)
+ Language files for fr_FR osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (it_IT)
+ Language files for it_IT osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (nl_NL)
+ Language files for nl_NL osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (no_NO)
+ Language files for no_NO osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (pl_PL)
+ Language files for pl_PL osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (pt_PT)
+ Language files for pt_PT osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (ru_RU)
+ Language files for ru_RU osso-statusbar-presence.
+
+Package: osso-statusbar-presence-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-presence (sv_SE)
+ Language files for sv_SE osso-statusbar-presence.

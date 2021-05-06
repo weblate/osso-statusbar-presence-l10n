@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Verfügbarkeit"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Verfügbar"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Abwesend"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Besetzt"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Abmelden"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Bitte nicht stören"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Unsichtbar"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Offline"
+
+msgid "pres_bd_jabber_online"
+msgstr "Online"
+
+msgid "pres_bd_location"
+msgstr "Mein Standort"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Verfügbar"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Bitte nicht stören"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Offline"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Neuer Status"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Status bearb."
+
+msgid "pres_bd_sip_offline"
+msgstr "Offline"
+
+msgid "pres_bd_sip_online"
+msgstr "Online"
+
+msgid "pres_bd_skype_away"
+msgstr "Abwesend"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Bitte nicht stören"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Unsichtbar"
+
+msgid "pres_bd_skype_offline"
+msgstr "Offline"
+
+msgid "pres_bd_skype_online"
+msgstr "Online"
+
+msgid "pres_fi_accounts"
+msgstr "Konten"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr ""
+"Nur ein %s-Konto kann aktiv sein. '%s' aktivieren und andere deaktivieren?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Nicht mehr anzeigen"
+
+msgid "pres_fi_location_level_city"
+msgstr "Stadtebene"
+
+msgid "pres_fi_location_level_district"
+msgstr "Bezirksebene"
+
+msgid "pres_fi_location_level_none"
+msgstr "Nicht anzeigen"
+
+msgid "pres_fi_location_level_street"
+msgstr "Straßenebene"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Der Standort wird Kontakten als Teil der Statusmeldung bei jedem Dienst "
+"angezeigt, bei dem Sie angemeldet sind und der Statusmeldungen "
+"unterstützt. \n"
+"\n"
+"Lesen Sie vor der Verwendung eines Diensts die jeweiligen "
+"Nutzungsbedingungen."
+
+msgid "pres_fi_new_status_name"
+msgstr "Name"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Statusnamen hier eingeben"
+
+msgid "pres_fi_status_busy"
+msgstr "Besetzt"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Statusmeldung eingeben"
+
+msgid "pres_fi_status_offline"
+msgstr "Offline"
+
+msgid "pres_fi_status_online"
+msgstr "Online"
+
+msgid "pres_ib_authentication_error"
+msgstr "Falsches Kennwort"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL-Zertifikat abgelaufen"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "SSL-Zertifikat-Fingerabdruck stimmt nicht überein"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL-Zertifikatfehler"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "SSL-Zertifikat-Authentifizierungsfehler"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL-Zertifikat ist nicht aktiviert"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL-Zertifikat nicht gefunden"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL-Zertifikat ist selbst signiert"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "SSL-Zertifikat nicht vertrauenswürdig"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Standort wird in Statusmeldung nicht angezeigt"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Standort wird in Statusmeldung angezeigt"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Internetverbindung erforderlich"
+
+msgid "pres_ib_must_be_online"
+msgstr ""
+"Zum Ausführen dieser Aktion muss die Verfügbarkeit auf 'Online' gesetzt sein"
+
+msgid "pres_ib_network_error"
+msgstr "Verbindung zum Netzwerk unterbrochen"
+
+msgid "pres_ib_server_error"
+msgstr "Dienst antwortet nicht"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Verbindung mit einem oder mehreren Konten nicht möglich"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Authentifizierung fehlgeschlagen."
+
+msgid "pres_li_encryption_error"
+msgstr "Verschlüsselungsfehler"
+
+msgid "pres_li_error_certificate"
+msgstr "Zertifikatfehler"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Konto bereits verwendet"
+
+msgid "pres_li_network_error"
+msgstr "Netzfehler"
+
+msgid "pres_nc_delete_status"
+msgstr "Status '%s' löschen?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Statusname erforderlich"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Statusname existiert bereits. Anderen Status angeben."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Verfügbarkeit"
+
+msgid "pres_ti_edit_status"
+msgstr "Status bearbeiten"
+
+msgid "pres_ti_location_level_title"
+msgstr "Mein Standort"
+
+msgid "pres_ti_new_status"
+msgstr "Neuer Status"
+
+msgid "pres_ti_select_icon"
+msgstr "Symbol auswählen"
+
+msgid "pres_ti_select_status"
+msgstr "Zu bearbeitenden Status auswählen"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Meine Verfügbarkeit"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Verfügbarkeit"

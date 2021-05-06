@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Доступность"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Доступен"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Нет на месте"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Занят"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Выход"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Не беспокоить"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Невидим"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Не в сети"
+
+msgid "pres_bd_jabber_online"
+msgstr "В сети"
+
+msgid "pres_bd_location"
+msgstr "Местополож."
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Доступен"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Не беспокоить"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Не в сети"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Новый статус"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Изменить"
+
+msgid "pres_bd_sip_offline"
+msgstr "Не в сети"
+
+msgid "pres_bd_sip_online"
+msgstr "В сети"
+
+msgid "pres_bd_skype_away"
+msgstr "Нет на месте"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Не беспокоить"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Невидим"
+
+msgid "pres_bd_skype_offline"
+msgstr "Не в сети"
+
+msgid "pres_bd_skype_online"
+msgstr "В сети"
+
+msgid "pres_fi_accounts"
+msgstr "Учетные записи"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr ""
+"Может быть активной только одна учетная запись %s. Активировать %s и "
+"отключить другие?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Не показывать это сообщение в следующий раз"
+
+msgid "pres_fi_location_level_city"
+msgstr "с точностью до гор."
+
+msgid "pres_fi_location_level_district"
+msgstr "с точностью до р-на"
+
+msgid "pres_fi_location_level_none"
+msgstr "Не показывать"
+
+msgid "pres_fi_location_level_street"
+msgstr "с точностью до ул."
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Это местоположение будет частью вашего сообщения о статусе для контактов во "
+"всех службах, поддерживающих такую возможность (при работе под своей учетной "
+"записью). \n"
+"\n"
+"Перед использованием подобных служб прочтите соответствующие условия "
+"использования."
+
+msgid "pres_fi_new_status_name"
+msgstr "Имя"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Введите статус"
+
+msgid "pres_fi_status_busy"
+msgstr "Занят"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Сообщение о статусе"
+
+msgid "pres_fi_status_offline"
+msgstr "Не в сети"
+
+msgid "pres_fi_status_online"
+msgstr "В сети"
+
+msgid "pres_ib_authentication_error"
+msgstr "Неверный пароль"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "Срок действия сертификата SSL истек"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Несоответствие идентификационной метки сертификата SSL"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "Ошибка сертификата SSL"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Ошибка проверки подлинности сертификата SSL"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "Срок действия сертификата SSL не начался"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "Не найден сертификат SSL"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "Самоподписанный сертификат SSL"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Не удается проверить SSL-сертификат"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Местоположение не показано в сообщении о статусе"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Местоположение показано в сообщении о статусе"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Требуется соединение с Интернетом"
+
+msgid "pres_ib_must_be_online"
+msgstr "Для выполнения этого действия вы должны быть в сети"
+
+msgid "pres_ib_network_error"
+msgstr "Нет подключения к сети"
+
+msgid "pres_ib_server_error"
+msgstr "Сервис не отвечает"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Не удается подключиться к одной или нескольким учетным записям."
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Сбой проверки подлинности."
+
+msgid "pres_li_encryption_error"
+msgstr "Ошибка шифрования"
+
+msgid "pres_li_error_certificate"
+msgstr "Ошибка сертификата"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Учетная запись используется"
+
+msgid "pres_li_network_error"
+msgstr "Ошибка сети"
+
+msgid "pres_nc_delete_status"
+msgstr "Удалить статус '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Введите статус"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Имя статуса уже существует. Укажите другой статус."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Доступность"
+
+msgid "pres_ti_edit_status"
+msgstr "Изменить статус"
+
+msgid "pres_ti_location_level_title"
+msgstr "Мое местоположение"
+
+msgid "pres_ti_new_status"
+msgstr "Новый статус"
+
+msgid "pres_ti_select_icon"
+msgstr "Выбрать значок"
+
+msgid "pres_ti_select_status"
+msgstr "Выберите статус для изменения"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Моя доступность"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Доступность"

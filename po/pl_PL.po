@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Status"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Dostępny"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Zaraz wracam"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Zajęty"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Wyloguj"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Nie przeszkadzać"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Niewidoczny"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Odłączony"
+
+msgid "pres_bd_jabber_online"
+msgstr "Połączony"
+
+msgid "pres_bd_location"
+msgstr "Moja lokalizacja"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Dostępny"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Nie przeszkadzać"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Odłączony"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Nowy status"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Edytuj status"
+
+msgid "pres_bd_sip_offline"
+msgstr "Odłączony"
+
+msgid "pres_bd_sip_online"
+msgstr "Połączony"
+
+msgid "pres_bd_skype_away"
+msgstr "Zaraz wracam"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Nie przeszkadzać"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Niewidoczny"
+
+msgid "pres_bd_skype_offline"
+msgstr "Odłączony"
+
+msgid "pres_bd_skype_online"
+msgstr "Połączony"
+
+msgid "pres_fi_accounts"
+msgstr "Konta"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Tylko jedno konto %s może być aktywne. Włączyć %s i wyłączyć inne?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Nie pokazuj ponownie tego komunikatu"
+
+msgid "pres_fi_location_level_city"
+msgstr "Poziom miejscowości"
+
+msgid "pres_fi_location_level_district"
+msgstr "Poziom rejonu"
+
+msgid "pres_fi_location_level_none"
+msgstr "Nie wyświetlaj"
+
+msgid "pres_fi_location_level_street"
+msgstr "Poziom ulicy"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Lokalizacja będzie udostępniana kontaktom jako część statusu w każdej "
+"usłudze, w której jesteś zalogowany i która obsługuje tę funkcję. \n"
+"\n"
+"Przed rozpoczęciem korzystania z tego typu usługi przeczytaj odpowiednie "
+"warunki."
+
+msgid "pres_fi_new_status_name"
+msgstr "Nazwa"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Wpisz tu nazwę statusu:"
+
+msgid "pres_fi_status_busy"
+msgstr "Zajęty"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Wpisz opis statusu:"
+
+msgid "pres_fi_status_offline"
+msgstr "Odłączony"
+
+msgid "pres_fi_status_online"
+msgstr "Połączony"
+
+msgid "pres_ib_authentication_error"
+msgstr "Nieprawidłowe hasło"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "Wygasła ważność certyfikatu SSL"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Brak zgodności odcisku palca certyfikatu SSL"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "Błąd certyfikatu SSL"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Błąd uwierzytelniania certyfikatu SSL"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "Certyfikat SSL nie jest aktywny"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "Nie znaleziono certyfikatu SSL"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "Certyfikat SSL z podpisem własnym"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Certyfikat SSL nie jest certyfikatem zaufanym"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Lokalizacja nie wyświetlana w opisie statusu"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Lokalizacja wyświetlana w opisie statusu"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Wymagane połączenie z Internetem"
+
+msgid "pres_ib_must_be_online"
+msgstr ""
+"Aby wykonać tę czynność, dla statusu należy wybrać ustawienie Połączony"
+
+msgid "pres_ib_network_error"
+msgstr "Brak połączenia z siecią"
+
+msgid "pres_ib_server_error"
+msgstr "Usługa nie odpowiada"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Nie można połączyć się z jednym lub kilkoma kontami"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Uwierzytelnianie nie powiodło się."
+
+msgid "pres_li_encryption_error"
+msgstr "Błąd szyfrowania"
+
+msgid "pres_li_error_certificate"
+msgstr "Błąd certyfikatu"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Konto jest już używane"
+
+msgid "pres_li_network_error"
+msgstr "Błąd sieci"
+
+msgid "pres_nc_delete_status"
+msgstr "Usunąć status %s?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Wymagana nazwa statusu"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Nazwa statusu już istnieje. Podaj inny status."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Status"
+
+msgid "pres_ti_edit_status"
+msgstr "Edytuj status"
+
+msgid "pres_ti_location_level_title"
+msgstr "Moja lokalizacja"
+
+msgid "pres_ti_new_status"
+msgstr "Nowy status"
+
+msgid "pres_ti_select_icon"
+msgstr "Wybierz ikonę"
+
+msgid "pres_ti_select_status"
+msgstr "Wybierz status do edycji"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Mój status"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Status"

@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Dostupnost"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Dostupný"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Nepřítomný"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Nerušit"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Odhlásit se"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Nerušit"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Neviditelný"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Off-line"
+
+msgid "pres_bd_jabber_online"
+msgstr "On-line"
+
+msgid "pres_bd_location"
+msgstr "Moje poloha"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Dostupný"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Nerušit"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Off-line"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Nový stav"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Upravit stav"
+
+msgid "pres_bd_sip_offline"
+msgstr "Off-line"
+
+msgid "pres_bd_sip_online"
+msgstr "On-line"
+
+msgid "pres_bd_skype_away"
+msgstr "Nepřítomný"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Nerušit"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Neviditelný"
+
+msgid "pres_bd_skype_offline"
+msgstr "Off-line"
+
+msgid "pres_bd_skype_online"
+msgstr "On-line"
+
+msgid "pres_fi_accounts"
+msgstr "Účty"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr ""
+"Je možné aktivovat pouze jeden účet  %s. Aktivovat %s a vypnout ostatní?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Toto příště nezobrazovat"
+
+msgid "pres_fi_location_level_city"
+msgstr "Úroveň města"
+
+msgid "pres_fi_location_level_district"
+msgstr "Úroveň čtvrti"
+
+msgid "pres_fi_location_level_none"
+msgstr "Neukazovat"
+
+msgid "pres_fi_location_level_street"
+msgstr "Úroveň ulice"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Toto umístění bude sdíleno jako součást vaší zprávy o stavu pro kontakty, "
+"pokud se přihlásíte k jakékoli službě, která ji podporuje. \n"
+"\n"
+"Než jakoukoli takovouto službu použijete, přečtěte si příslušné podmínky "
+"používání."
+
+msgid "pres_fi_new_status_name"
+msgstr "Název"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Sem vložte název stavu"
+
+msgid "pres_fi_status_busy"
+msgstr "Nerušit"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Napište zprávu o svém stavu"
+
+msgid "pres_fi_status_offline"
+msgstr "Off-line"
+
+msgid "pres_fi_status_online"
+msgstr "On-line"
+
+msgid "pres_ib_authentication_error"
+msgstr "Nesprávné heslo"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "Platnost certifikátu SSL vypršela"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Otisk certifikátu SSL nesouhlasí"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "Chyba certifikátu SSL"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Chyba ověřování certifikátu SSL"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "Certifikát SSL neaktivován"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "Certifikát SSL nenalezen"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "Uživatelem vydaný certifikát SSL"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Certifikát SSL nedůvěryhodný"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Poloha nezobrazena ve zprávě o stavu"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Poloha zobrazena ve zprávě o stavu"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Vyžadováno připojení k síti Internet"
+
+msgid "pres_ib_must_be_online"
+msgstr "Pro provedení této operace musí být dostupnost on-line."
+
+msgid "pres_ib_network_error"
+msgstr "Síť odpojena"
+
+msgid "pres_ib_server_error"
+msgstr "Služba neodpovídá"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Nelze se připojit k jednomu nebo více účtům"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Ověření se nezdařilo."
+
+msgid "pres_li_encryption_error"
+msgstr "Chyba šifrování"
+
+msgid "pres_li_error_certificate"
+msgstr "Chyba certifikátu"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Účet se používá"
+
+msgid "pres_li_network_error"
+msgstr "Chyba sítě"
+
+msgid "pres_nc_delete_status"
+msgstr "Odstranit stav „%s“?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Vyžadován název stavu"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Název stavu se již používá. Použijte jiný."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Dostupnost"
+
+msgid "pres_ti_edit_status"
+msgstr "Upravit stav"
+
+msgid "pres_ti_location_level_title"
+msgstr "Moje poloha"
+
+msgid "pres_ti_new_status"
+msgstr "Nový stav"
+
+msgid "pres_ti_select_icon"
+msgstr "Zvolit ikonu"
+
+msgid "pres_ti_select_status"
+msgstr "Zvolit stav pro úpravu"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Moje dostupnost"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Dostupnost"

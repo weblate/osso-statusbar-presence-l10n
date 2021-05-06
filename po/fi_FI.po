@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Tavoitettavuus"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Online"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Poissa"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Varattu"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Uloskirjautunut"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Ei saa häiritä"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Näkymätön"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Offline"
+
+msgid "pres_bd_jabber_online"
+msgstr "Online"
+
+msgid "pres_bd_location"
+msgstr "Oma sijainti"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Online"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Ei saa häiritä"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Offline"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Uusi tila"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Muokkaa tilaa"
+
+msgid "pres_bd_sip_offline"
+msgstr "Offline"
+
+msgid "pres_bd_sip_online"
+msgstr "Online"
+
+msgid "pres_bd_skype_away"
+msgstr "Poissa"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Ei saa häiritä"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Näkymätön"
+
+msgid "pres_bd_skype_offline"
+msgstr "Offline"
+
+msgid "pres_bd_skype_online"
+msgstr "Online"
+
+msgid "pres_fi_accounts"
+msgstr "Tilit"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr ""
+"Vain yksi %s-tili voi olla käytössä. Ota %s käyttöön ja poista muut käytöstä?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Älä näytä tätä viestiä enää"
+
+msgid "pres_fi_location_level_city"
+msgstr "Kaupunki"
+
+msgid "pres_fi_location_level_district"
+msgstr "Alue"
+
+msgid "pres_fi_location_level_none"
+msgstr "Älä näytä"
+
+msgid "pres_fi_location_level_street"
+msgstr "Katu"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Sijainti jaetaan yhteystiedoille tilaviestin yhteydessä kaikissa "
+"tilaviestejä tukevissa palveluissa, joihin olet kirjautunut sisään. \n"
+"\n"
+"Lue käyttöehdot ennen tällaisen palvelun käyttämistä."
+
+msgid "pres_fi_new_status_name"
+msgstr "Nimi"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Kirjoita tilan nimi tähän"
+
+msgid "pres_fi_status_busy"
+msgstr "Varattu"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Kirjoita oma tilaviesti"
+
+msgid "pres_fi_status_offline"
+msgstr "Offline"
+
+msgid "pres_fi_status_online"
+msgstr "Online"
+
+msgid "pres_ib_authentication_error"
+msgstr "Väärä salasana"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL-varmenne vanhentunut"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "SSL-varmenteen sormenjälki ei täsmää"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL-varmennevirhe"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "SSL-varmenteen todennusvirhe"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL-varmenne ei ole käytössä"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL-varmennetta ei löydy"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL-varmenne on itse allekirjoitettu"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "SSL-varmenne ei ole luotettava"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Sijaintia ei näytetä tilaviestissä"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Sijainti näytetään tilaviestissä"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Tarvitaan Internet-yhteys"
+
+msgid "pres_ib_must_be_online"
+msgstr "Toiminto on mahdollinen vain online-tilassa."
+
+msgid "pres_ib_network_error"
+msgstr "Verkkoyhteys katkaistu"
+
+msgid "pres_ib_server_error"
+msgstr "Palvelu ei vastaa"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Yhteen tai useampaan tiliin ei saada yhteyttä"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Todennus epäonnistui."
+
+msgid "pres_li_encryption_error"
+msgstr "Salausvirhe"
+
+msgid "pres_li_error_certificate"
+msgstr "Varmennevirhe"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Tili on käytössä"
+
+msgid "pres_li_network_error"
+msgstr "Verkkovirhe"
+
+msgid "pres_nc_delete_status"
+msgstr "Poistetaanko tila %s?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Vaaditaan tilan nimi"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Tilan nimi on jo olemassa. Anna toinen tilan nimi."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Tavoitettavuus"
+
+msgid "pres_ti_edit_status"
+msgstr "Muokkaa tilaa"
+
+msgid "pres_ti_location_level_title"
+msgstr "Oma sijainti"
+
+msgid "pres_ti_new_status"
+msgstr "Uusi tila"
+
+msgid "pres_ti_select_icon"
+msgstr "Valitse kuvake"
+
+msgid "pres_ti_select_status"
+msgstr "Valitse muokattava tila"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Oma tavoitettavuus"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Tavoitettavuus"

@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Beschikbaarheid"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Beschikbaar"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Afwezig"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Bezet"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Afmelden"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Niet storen"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Onzichtbaar"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Offline"
+
+msgid "pres_bd_jabber_online"
+msgstr "Online"
+
+msgid "pres_bd_location"
+msgstr "Mijn locatie"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Beschikbaar"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Niet storen"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Offline"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Nieuwe status"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Status bewerk."
+
+msgid "pres_bd_sip_offline"
+msgstr "Offline"
+
+msgid "pres_bd_sip_online"
+msgstr "Online"
+
+msgid "pres_bd_skype_away"
+msgstr "Afwezig"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Niet storen"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Onzichtbaar"
+
+msgid "pres_bd_skype_offline"
+msgstr "Offline"
+
+msgid "pres_bd_skype_online"
+msgstr "Online"
+
+msgid "pres_fi_accounts"
+msgstr "Accounts"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr ""
+"Er kan slechts één %s-account actief zijn. %s activeren en andere accounts "
+"uitschakelen?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Geef dit de volgende keer niet weer"
+
+msgid "pres_fi_location_level_city"
+msgstr "Stadsniveau"
+
+msgid "pres_fi_location_level_district"
+msgstr "Provincieniveau"
+
+msgid "pres_fi_location_level_none"
+msgstr "Niet weergeven"
+
+msgid "pres_fi_location_level_street"
+msgstr "Straatniveau"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Deze locatie wordt gedeeld als onderdeel van uw statusbericht naar "
+"contactpersonen bij elke service waarvoor u bent aangemeld en die dit "
+"ondersteunt. \n"
+"\n"
+"Alvorens een dergelijke service te gebruiken dient u de van toepassing "
+"zijnde gebruiksvoorwaarden te lezen."
+
+msgid "pres_fi_new_status_name"
+msgstr "Naam"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Statusnaam hier invoeren"
+
+msgid "pres_fi_status_busy"
+msgstr "Bezet"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Voer uw statusbericht in"
+
+msgid "pres_fi_status_offline"
+msgstr "Offline"
+
+msgid "pres_fi_status_online"
+msgstr "Online"
+
+msgid "pres_ib_authentication_error"
+msgstr "Wachtwoord onjuist"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL-certificaat verlopen"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Vingerafdruk SSL-certificaat komt niet overeen"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL-certificaatfout"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Verificatiefout SSL-certificaat"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL-certificaat niet geactiveerd"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL-certificaat niet gevonden"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL-certificaat zelf-ondertekend"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Kan het SSL-certificaat niet vertrouwen"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Locatie niet weergeven in statusbericht"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Locatie weergeven in statusbericht"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Internetverbinding vereist"
+
+msgid "pres_ib_must_be_online"
+msgstr ""
+"Wanneer u deze handeling uitvoert, dient Beschikbaarheid te zijn ingesteld "
+"op online"
+
+msgid "pres_ib_network_error"
+msgstr "Verbinding met netwerk verbroken"
+
+msgid "pres_ib_server_error"
+msgstr "Service antwoordt niet"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Kan geen verbinding maken met één of meer accounts"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Verificatie is mislukt."
+
+msgid "pres_li_encryption_error"
+msgstr "Coderingsfout"
+
+msgid "pres_li_error_certificate"
+msgstr "Certificaatfout"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Account wordt al gebruikt"
+
+msgid "pres_li_network_error"
+msgstr "Netwerkfout"
+
+msgid "pres_nc_delete_status"
+msgstr "Status '%s' verwijderen?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Statusnaam vereist"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Statusnaam bestaat al. Geef een andere status."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Beschikbaarheid"
+
+msgid "pres_ti_edit_status"
+msgstr "Status bewerken"
+
+msgid "pres_ti_location_level_title"
+msgstr "Mijn locatie"
+
+msgid "pres_ti_new_status"
+msgstr "Nieuwe status"
+
+msgid "pres_ti_select_icon"
+msgstr "Selecteer pictogram"
+
+msgid "pres_ti_select_status"
+msgstr "Selecteer status om te bewerken"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Mijn beschikbaarheid"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Beschikbaarheid"
