@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20091026143826\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2010-04-29 17:03+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: Adib Al Abaji <shami585@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "pres_ap_feature_name"
+msgstr "حالة الاتصال"
+
+msgid "pres_bd_gtalk_available"
+msgstr "متاح"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "مشغول"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "تسجيل خروج"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "الرجاء عدم الإزعاج"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "مخفي"
+
+msgid "pres_bd_jabber_offline"
+msgstr "غير متصل"
+
+msgid "pres_bd_jabber_online"
+msgstr "متصل"
+
+msgid "pres_bd_location"
+msgstr "مكاني"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "متاح"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "الرجاء عد الإزعاج"
+
+msgid "pres_bd_nokia_offline"
+msgstr "غير متصل"
+
+msgid "pres_bd_presence_new_status"
+msgstr "حالة جديدة"
+
+msgid "pres_bd_presence_personalise"
+msgstr "تعديل حالة"
+
+msgid "pres_bd_sip_offline"
+msgstr "غير متصل"
+
+msgid "pres_bd_sip_online"
+msgstr "متصل"
+
+msgid "pres_bd_skype_away"
+msgstr "في الخارج"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "الرجاء عد الإزعاج"
+
+msgid "pres_bd_skype_invisible"
+msgstr "مخفي"
+
+msgid "pres_bd_skype_offline"
+msgstr "غير متصل"
+
+msgid "pres_bd_skype_online"
+msgstr "متصل"
+
+msgid "pres_fi_accounts"
+msgstr "الحسابات"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "فقط واحد %s تم تفعيل الحساب. فعال %s ,وتعطيل الآخرين؟"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "عدم الاظهار في المرة القادمة"
+
+msgid "pres_fi_location_level_city"
+msgstr "مستوى المدينة"
+
+msgid "pres_fi_location_level_district"
+msgstr "مستوى المنطقة"
+
+msgid "pres_fi_location_level_none"
+msgstr "عدم الاظهار"
+
+msgid "pres_fi_location_level_street"
+msgstr "مستوى الشارع"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"هذا المكان سوف يتم أظهاره ومشاركته كجزء من الرسالة  لطرف الآخر عند دخولك إلى حسابات تدعم هذه الخاصية. \n"
+"\n"
+"قم بقراءة شروط الأستخدام المطبقة قبل أستخدام أي خدمة من هذا القبيل."
+
+msgid "pres_fi_new_status_name"
+msgstr "اسم"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "أدخل أسم الحالة هنا"
+
+msgid "pres_fi_status_busy"
+msgstr "مشغول"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "أكتب رسالتك هنا"
+
+msgid "pres_fi_status_offline"
+msgstr "غير متصل"
+
+msgid "pres_fi_status_online"
+msgstr "متصل"
+
+msgid "pres_ib_authentication_error"
+msgstr "كلمة المرور غير صحيحة"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL الشهادة منتهية"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "SSL الشهاد غير متوافقة مع بصمت الأصبع"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL الشهادة خاطئ"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "SSL الشهادة المصدقه خاطئ"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSLالشهادة غير فعالة "
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL الشهادة غير موجودة"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSLالشهادة موقعه ذاتيا"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "  SSL certificate غير قادر على تشغيل"
+
+msgid "pres_ib_location_turned_off"
+msgstr "الموقع لن يظهر في الرسالة الظاهره"
+
+msgid "pres_ib_location_turned_on"
+msgstr "الموقع سوف يظهر بالرسالة الظاهرة"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "الأتصال بالأنترنت مطلوب"
+
+msgid "pres_ib_must_be_online"
+msgstr "يجب أن تكون متصل بالأنترنت لجعل الحالة متصل"
+
+msgid "pres_ib_network_error"
+msgstr "غير متصل بالشبكة"
+
+msgid "pres_ib_server_error"
+msgstr "الخادم لا يستجيب"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "غير قادر على الأتصال بواحد أو أكثر من الحسابات"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "فشلة المصادقة."
+
+msgid "pres_li_encryption_error"
+msgstr "خطأ في التشفير"
+
+msgid "pres_li_error_certificate"
+msgstr "خطأ في الشهادة"
+
+msgid "pres_li_error_name_in_use"
+msgstr "الحساب مستخدم"
+
+msgid "pres_li_network_error"
+msgstr "خطأ في الشبكة"
+
+msgid "pres_nc_delete_status"
+msgstr "حذف الحالة '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "وضع الأسم مطلوب"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "الأسم الموضوع موجود مسبقا. ضع أسم آخر."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "حالة الاتصال"
+
+msgid "pres_ti_edit_status"
+msgstr "تعديل الحالة"
+
+msgid "pres_ti_location_level_title"
+msgstr "مكاني"
+
+msgid "pres_ti_new_status"
+msgstr "حالة جديدة"
+
+msgid "pres_ti_select_icon"
+msgstr "اختر رمز"
+
+msgid "pres_ti_select_status"
+msgstr "اختر حالة لتعديلها"
+
+msgid "pres_ti_set_presence_title"
+msgstr "حالتي"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "حالة الاتصال"
+
