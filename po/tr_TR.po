@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20091026143826\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.03 09:57+0300\n"
+"PO-Revision-Date: 2010-05-29 22:15+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Durum"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Uygun"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Meşgul"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Uzakta"
+
+msgid "pres_bd_gtalk_invisible"
+msgstr "Görünmez"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Oturumu kapat"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Rahatsız etme"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Görünmez"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Çevrimdışı"
+
+msgid "pres_bd_jabber_online"
+msgstr "Çevrimiçi"
+
+msgid "pres_bd_location"
+msgstr "Konumum"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Uygun"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Rahatsız etme"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Çevrimdışı"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Yeni durum"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Durumu düzenle"
+
+msgid "pres_bd_sip_offline"
+msgstr "Çevrimdışı"
+
+msgid "pres_bd_sip_online"
+msgstr "Çevrimiçi"
+
+msgid "pres_bd_skype_away"
+msgstr "Uzakta"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Rahatsız etme"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Görünmez"
+
+msgid "pres_bd_skype_offline"
+msgstr "Çevrimdışı"
+
+msgid "pres_bd_skype_online"
+msgstr "Çevrimiçi"
+
+msgid "pres_fi_accounts"
+msgstr "Hesaplar"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Sadece bir %s hesap aktif olabilir. %s etkinleşsin ve diğerleri etkisizleşsin mi?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Bunu bir daha gösterme"
+
+msgid "pres_fi_location_level_city"
+msgstr "Şehir seviyesi"
+
+msgid "pres_fi_location_level_district"
+msgstr "Mahalle seviyesi"
+
+msgid "pres_fi_location_level_none"
+msgstr "Gösterme"
+
+msgid "pres_fi_location_level_street"
+msgstr "Sokak seviyesi"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Bu konum durum mesajınızın bir parçası olarak bunu destekleyen herhangi bir servise bağlanan kişilerinizle paylaşılacak. \n"
+"\n"
+"Bu servisi kullanmadan önce kullanım şartlarını okuyun."
+
+msgid "pres_fi_new_status_name"
+msgstr "İsim"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Durum adını girin"
+
+msgid "pres_fi_status_busy"
+msgstr "Meşgul"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Durum mesajınızı girin"
+
+msgid "pres_fi_status_offline"
+msgstr "Çevrimdışı"
+
+msgid "pres_fi_status_online"
+msgstr "Çevrimiçi"
+
+msgid "pres_ib_authentication_error"
+msgstr "Geçersiz parola"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL sertifikasının süresi dolmuş"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "SSL sertifika parmak izi uyumsuz"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL sertifika hatası"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "SSL sertifika doğrulama hatası"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL sertifikası aktif değil"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL sertifikası bulunamadı"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL sertifikası kendinden imzalı"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "SSL sertifikasına güvenilemedi"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Durum mesajında konum görünmüyor"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Konum bilgilendirmesi açıldı"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Internet bağlantısı gerekli"
+
+msgid "pres_ib_must_be_online"
+msgstr "Bu işlem için durumunuz çevrimiçi olmalı"
+
+msgid "pres_ib_network_error"
+msgstr "Ağ bağlantısı kesildi"
+
+msgid "pres_ib_server_error"
+msgstr "Servis cevap vermiyor"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Bir veya daha fazla hesaba bağlanılamadı"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Doğrulama başarısız."
+
+msgid "pres_li_encryption_error"
+msgstr "Kriptolama hatası"
+
+msgid "pres_li_error_certificate"
+msgstr "Sertifika hatası"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Ad kullanımda"
+
+msgid "pres_li_network_error"
+msgstr "Ağ hatası"
+
+msgid "pres_nc_delete_status"
+msgstr "Durumu sil '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Durum adı gerekli"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Durum adı zaten mevcut. Başka bir ad deneyin."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Durum"
+
+msgid "pres_ti_edit_status"
+msgstr "Durumu düzenle"
+
+msgid "pres_ti_location_level_title"
+msgstr "Konumum"
+
+msgid "pres_ti_new_status"
+msgstr "Yeni durum"
+
+msgid "pres_ti_select_icon"
+msgstr "Simge seç"
+
+msgid "pres_ti_select_status"
+msgstr "Düzenlenecek durumu seç"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Durumum"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Durum"
