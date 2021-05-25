@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20091026143826\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2010-02-21 11:07+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Elérhetőség"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Elérhető"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Foglalt"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Kijelentkezve"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Ne zavarj"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Láthatatlan"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Offline"
+
+msgid "pres_bd_jabber_online"
+msgstr "Online"
+
+msgid "pres_bd_location"
+msgstr "Itt vagyok most"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Elérhető"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Ne zavarj"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Offline"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Új állapot"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Állapot szerk."
+
+msgid "pres_bd_sip_offline"
+msgstr "Offline"
+
+msgid "pres_bd_sip_online"
+msgstr "Online"
+
+msgid "pres_bd_skype_away"
+msgstr "Nincs a gépnél"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Ne zavarj"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Láthatatlan"
+
+msgid "pres_bd_skype_offline"
+msgstr "Offline"
+
+msgid "pres_bd_skype_online"
+msgstr "Online"
+
+msgid "pres_fi_accounts"
+msgstr "Fiókok"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Csak egy %s fiók lehet aktív. Aktiválod a(z) %s fiókot és letiltod a másikat?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Legközelebb ezt ne mutassa"
+
+msgid "pres_fi_location_level_city"
+msgstr "Város szintű"
+
+msgid "pres_fi_location_level_district"
+msgstr "Kerület szintű"
+
+msgid "pres_fi_location_level_none"
+msgstr "Ne mutasd"
+
+msgid "pres_fi_location_level_street"
+msgstr "Utca szintű"
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+"Tartózkodási helyed az állapot üzeneteddel együtt megosztásra kerül partnereiddel, amikor olyan szolgáltatásba jelentkeznek be, amelyik támogatja ezt. \n"
+"\n"
+"Olvasd el a felhasználói feltételeket mielőtt ilyen szolgáltatást használsz."
+
+msgid "pres_fi_new_status_name"
+msgstr "Név"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Add meg az állapot nevét"
+
+msgid "pres_fi_status_busy"
+msgstr "Foglalt"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Add meg az állapot üzeneted"
+
+msgid "pres_fi_status_offline"
+msgstr "Offline"
+
+msgid "pres_fi_status_online"
+msgstr "Online"
+
+msgid "pres_ib_authentication_error"
+msgstr "Helytelen jelszó"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL tanúsítvány lejárt"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "SSL tanúsítvány ujjlenyomat nem megfelelő"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "SSL tanúsítvány hiba"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "SSL tanúsítvány hitelesítési hiba"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL tanúsítvány nincs aktiválva"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL tanúsítvány nem található"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL tanúsítvány self-signed"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "SSL tanúsítvány nem megbízható"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Tartózkodási helyed nem látható az állapot üzenetben"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Tartózkodási helyed látható az állapot üzenetben"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Internet kapcsolat szükséges"
+
+msgid "pres_ib_must_be_online"
+msgstr "Állapotodnak online-nak kell lennie ehhez"
+
+msgid "pres_ib_network_error"
+msgstr "Hálózati kapcsolat bontva"
+
+msgid "pres_ib_server_error"
+msgstr "Szolgáltatás nem válaszol"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Nem lehet csatlakozni egy vagy több fiókhoz"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Azonosítás sikertelen."
+
+msgid "pres_li_encryption_error"
+msgstr "Titkosítási hiba"
+
+msgid "pres_li_error_certificate"
+msgstr "Tanúsítvány hiba"
+
+msgid "pres_li_error_name_in_use"
+msgstr "A fiók használatban van"
+
+msgid "pres_li_network_error"
+msgstr "Network error"
+
+msgid "pres_nc_delete_status"
+msgstr "Törlöd a(z) '%s' állapotot?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Állapot név már létezik"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Állapot név már létezik. Adj meg másik állapotot."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Elérhetőség"
+
+msgid "pres_ti_edit_status"
+msgstr "Állapot szerkesztése"
+
+msgid "pres_ti_location_level_title"
+msgstr "Tartózkodási helyem"
+
+msgid "pres_ti_new_status"
+msgstr "Új állapot"
+
+msgid "pres_ti_select_icon"
+msgstr "Ikon választás"
+
+msgid "pres_ti_select_status"
+msgstr "Állapot választása a szerkesztéshez"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Állapotom"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Elérhetőség"
+
