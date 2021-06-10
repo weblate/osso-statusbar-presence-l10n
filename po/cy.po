@@ -1,0 +1,229 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2012-02-07 10:37+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Argaeledd"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Ar gael"
+
+msgid "pres_bd_gtalk_away"
+msgstr "I ffwrdd"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Prysur"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Allgofnodi"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Peidiwch â tharfu"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Anweledig"
+
+msgid "pres_bd_jabber_offline"
+msgstr "All-lein"
+
+msgid "pres_bd_jabber_online"
+msgstr "Ar-lein"
+
+msgid "pres_bd_location"
+msgstr "Fy lleoliad"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Ar gael"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Peidiwch â tharfu"
+
+msgid "pres_bd_nokia_offline"
+msgstr "All-lein"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Statws newydd"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Golygu'r statws"
+
+msgid "pres_bd_sip_offline"
+msgstr "All-lein"
+
+msgid "pres_bd_sip_online"
+msgstr "Ar-lein"
+
+msgid "pres_bd_skype_away"
+msgstr "I ffwrdd"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Peidiwch â tharfu"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Anweledig"
+
+msgid "pres_bd_skype_offline"
+msgstr "All-lein"
+
+msgid "pres_bd_skype_online"
+msgstr "Ar-lein"
+
+msgid "pres_fi_accounts"
+msgstr "Cyfrifon"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Dim ond un cyfrif %s all fod yn weithredol. Galluogi %s ac analluogi'r rhai eraill?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Peidio â dangos hyn y tro nesaf."
+
+msgid "pres_fi_location_level_city"
+msgstr "Lefel dinas"
+
+msgid "pres_fi_location_level_district"
+msgstr "Lefel ardal"
+
+msgid "pres_fi_location_level_none"
+msgstr "Peidio â dangos"
+
+msgid "pres_fi_location_level_street"
+msgstr "Lefel stryd"
+
+msgid "pres_fi_location_turned_on"
+msgstr "Caiff y lleoliad yma ei rannu gyda chysylltiadau fel rhan o'ch neges statws pan rydych wedi mewngofnodi gyda unrhyw wasanaeth sy'n ei gynnal. Darllenwch y termau defnydd priodol cyn defnyddio'r fath wasanaeth."
+
+msgid "pres_fi_new_status_name"
+msgstr "Enw"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Mewnbynnwch enw statws yma"
+
+msgid "pres_fi_status_busy"
+msgstr "Prysur"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Mewnbynnwch eich neges statws"
+
+msgid "pres_fi_status_offline"
+msgstr "All-lein"
+
+msgid "pres_fi_status_online"
+msgstr "Ar-lein"
+
+msgid "pres_ib_authentication_error"
+msgstr "Cyfrinair anghywir"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "Tystysgrif SSL wedi darfod"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Ôl-bys tystysgrif SSL ddim yn cydweddu"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "Gwall tystysgrif SSL"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Gwall dilysu tystysgrif SSL"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "Tystysgrif SSL heb ei weithredoli"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "Ni ganfuwyd tystysgrif SSL"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "Tystysgrif SSL hunan-lofnodedig"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Methu ymddiried yn y tystysgrif SSL"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Ni ddangosir lleoliad yn y neges statws"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Dangosir y lleoliad yn y neges statws"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Angen cysylltiad rhyngrwyd"
+
+msgid "pres_ib_must_be_online"
+msgstr "Rhaid i'r argaeledd fod ar-lein i gyflawni'r weithred yma"
+
+msgid "pres_ib_network_error"
+msgstr "Datgysylltwyd y rhwydwaith"
+
+msgid "pres_ib_server_error"
+msgstr "Nid yw'r gwasanaeth yn ymateb"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Methu cysylltu ag un neu fwy o gyfrifon"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Methodd yr awdurdodi."
+
+msgid "pres_li_encryption_error"
+msgstr "Gwall amgryptio"
+
+msgid "pres_li_error_certificate"
+msgstr "Gwall tystysgrif"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Cyfrif mewn defnydd"
+
+msgid "pres_li_network_error"
+msgstr "Gwall rhwydwaith"
+
+msgid "pres_nc_delete_status"
+msgstr "Dileu statws '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Angen enw statws"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Enw statws eisoes yn bodoli. Rhowch enw statws arall."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Argaeledd"
+
+msgid "pres_ti_edit_status"
+msgstr "Golygu'r statws"
+
+msgid "pres_ti_location_level_title"
+msgstr "Fy lleoliad"
+
+msgid "pres_ti_new_status"
+msgstr "Statws newydd"
+
+msgid "pres_ti_select_icon"
+msgstr "Dewis eicon"
+
+msgid "pres_ti_select_status"
+msgstr "Dewis statws i'w olygu"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Fy argaeledd"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Argaeledd"
