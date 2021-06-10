@@ -1,0 +1,228 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2012-05-26 14:13+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Даступнасць"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Даступны"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Адсутнічае"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Заняты"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Адключыцца"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Не трывожце"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Нябачны"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Офлайн"
+
+msgid "pres_bd_jabber_online"
+msgstr "Анлайн"
+
+msgid "pres_bd_location"
+msgstr "Маё знаходжанне"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Даступны"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Не трывожце"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Офлайн"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Новы статус"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Рэдагаваць статус"
+
+msgid "pres_bd_sip_offline"
+msgstr "Офлайн"
+
+msgid "pres_bd_sip_online"
+msgstr "Анлайн"
+
+msgid "pres_bd_skype_away"
+msgstr "Адсутнічае"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Не трывожце"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Нябачны"
+
+msgid "pres_bd_skype_offline"
+msgstr "Офлайн"
+
+msgid "pres_bd_skype_online"
+msgstr "Анлайн"
+
+msgid "pres_fi_accounts"
+msgstr "Рахункі"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Толькі адзін рахунак %s можа быць актыўны. Актываваць %s і адключыць астатнія?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Не паказваць гэта болей"
+
+msgid "pres_fi_location_level_city"
+msgstr "Узровень горада"
+
+msgid "pres_fi_location_level_district"
+msgstr "Узровень раёна"
+
+msgid "pres_fi_location_level_none"
+msgstr "Не паказваць"
+
+msgid "pres_fi_location_level_street"
+msgstr "Узровень вуліцы"
+
+msgid "pres_fi_location_turned_on"
+msgstr "Гэта месца будзе прадастаўлена як частка вашага статуса для кантактаў з моманту ўваходу ў любую службу, якая гэта падтрымлівае.\n\nЧытайце ўмовы выкарыстання перад выкарыстаннем любых такіх паслуг."
+
+msgid "pres_fi_new_status_name"
+msgstr "Імя"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Увядзіце тут імя статуса"
+
+msgid "pres_fi_status_busy"
+msgstr "Заняты"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Увядзіце статус"
+
+msgid "pres_fi_status_offline"
+msgstr "Офлайн"
+
+msgid "pres_fi_status_online"
+msgstr "Анлайн"
+
+msgid "pres_ib_authentication_error"
+msgstr "Няправільны пароль"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "SSL сертыфікат скончыўся"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Адбіткі SSL сертыфіката не супадаюць"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "Памылка SSL сертыфіката"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Памылка ідэнтыфікацыі SSL сертыфіката"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "SSL сертыфікат не актываваны"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "SSL сертыфікат не знойдзены"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "SSL сертыфікат самападпісаны"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Немагчыма давяраць SSL сертыфікату"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Знагоджане не паказана ў статусе"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Знаходжанне паказана ў статусе"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Патрэбна сеціўнае злучэнне"
+
+msgid "pres_ib_must_be_online"
+msgstr "Вы павінны быць анлайн для выканання гэтага дзеяння"
+
+msgid "pres_ib_network_error"
+msgstr "Сетка адключана"
+
+msgid "pres_ib_server_error"
+msgstr "Служба не адказвае"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Немагчыма падлучыць адзін ці болей рахункаў"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Памылка ідэнтыфікацыі."
+
+msgid "pres_li_encryption_error"
+msgstr "Памылка шыфравання"
+
+msgid "pres_li_error_certificate"
+msgstr "Памылка сертыфіката"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Рахунак выкарыстоўваецца"
+
+msgid "pres_li_network_error"
+msgstr "Памылка сеткі"
+
+msgid "pres_nc_delete_status"
+msgstr "Выдаліць статус '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "Патрэбна імя статуса"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Статус з такой назвай ужо існуе. Дайце іншы статус."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Даступнасць"
+
+msgid "pres_ti_edit_status"
+msgstr "Рэдагаваць статус"
+
+msgid "pres_ti_location_level_title"
+msgstr "Маё знаходжанне"
+
+msgid "pres_ti_new_status"
+msgstr "Новы статус"
+
+msgid "pres_ti_select_icon"
+msgstr "Выбярыце абразок"
+
+msgid "pres_ti_select_status"
+msgstr "Абярыце статус для рэдагавання"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Мая даступнасць"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Даступнасць"
