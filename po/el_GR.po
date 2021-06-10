@@ -1,0 +1,228 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "pres_ap_feature_name"
+msgstr "Διαθεσιμότητα"
+
+msgid "pres_bd_gtalk_available"
+msgstr "Διαθέσιμος"
+
+msgid "pres_bd_gtalk_away"
+msgstr "Απομακρυσμένος"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "Απασχολημένος"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "Αποσύνδεση"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "Μην ενοχλείτε"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "Αόρατος"
+
+msgid "pres_bd_jabber_offline"
+msgstr "Ανενεργός"
+
+msgid "pres_bd_jabber_online"
+msgstr "Ενεργός"
+
+msgid "pres_bd_location"
+msgstr "Η τοποθεσία μου"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "Διαθέσιμος"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "Μην ενοχλείτε"
+
+msgid "pres_bd_nokia_offline"
+msgstr "Ανενεργός"
+
+msgid "pres_bd_presence_new_status"
+msgstr "Νέα κατάσταση"
+
+msgid "pres_bd_presence_personalise"
+msgstr "Επεξεργασία κατάστασης"
+
+msgid "pres_bd_sip_offline"
+msgstr "Ανενεργός"
+
+msgid "pres_bd_sip_online"
+msgstr "Ενεργός"
+
+msgid "pres_bd_skype_away"
+msgstr "Μακριά απ' τη συσκευή"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "Μην ενοχλείτε"
+
+msgid "pres_bd_skype_invisible"
+msgstr "Αόρατος"
+
+msgid "pres_bd_skype_offline"
+msgstr "Ανενεργός"
+
+msgid "pres_bd_skype_online"
+msgstr "Ενεργός"
+
+msgid "pres_fi_accounts"
+msgstr "Λογαριασμοί"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "Μόνο ένας %s λογαριασμός μπορεί να είναι ενεργός. Ενεργοποίηση του %s και απενεργοποίηση των άλλων;"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "Μην το δείξεις αυτό την επόμενη φορά"
+
+msgid "pres_fi_location_level_city"
+msgstr "Σε επίπεδο πόλης"
+
+msgid "pres_fi_location_level_district"
+msgstr "Σε επίπεδο περιφέρειας "
+
+msgid "pres_fi_location_level_none"
+msgstr "Μην το δείξεις"
+
+msgid "pres_fi_location_level_street"
+msgstr "Σε επίπεδο δρόμου"
+
+msgid "pres_fi_location_turned_on"
+msgstr "Αυτή η τοποθεσία θα διαμοιραστεί ως μέρος του μηνύματος της κατάστασης σας στις επαφές όταν συνδέεστε σε οποιαδήποτε υπηρεσία που την υποστηρίζει T. \n\nΔιαβάστε τους ισχύον όρους χρήσης πριν την χρησιμοποιήσετε σε οποιαδήποτε υπηρεσία."
+
+msgid "pres_fi_new_status_name"
+msgstr "Όνομα"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "Εισάγετε το όνομα της κατάστασης εδώ"
+
+msgid "pres_fi_status_busy"
+msgstr "Απασχολημένος"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "Γράψτε ένα μήνυμα για την κατάσταση σας"
+
+msgid "pres_fi_status_offline"
+msgstr "Ανενεργός"
+
+msgid "pres_fi_status_online"
+msgstr "Ενεργός"
+
+msgid "pres_ib_authentication_error"
+msgstr "Λάθος κωδικός"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "Το πιστοποιητικό SSL έληξε"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "Αναντιστοιχία αποτυπωμάτων στο πιστοποιητικό SSL "
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "Σφάλμα πιστοποιητικού SSL"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "Σφάλμα στην επικύρωση του πιστοποιητικού SSL"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "Το πιστοποιητικό SSL δεν ενεργοποιήθηκε"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "Το πιστοποιητικό SSL δεν βρέθηκε"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "Το πιστοποιητικό SSL αυτό-υπογράφτηκε"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "Αδυναμία εμπιστοσύνης πιστοποιητικού SSL"
+
+msgid "pres_ib_location_turned_off"
+msgstr "Η τοποθεσία δεν εμφανίζεται στο μήνυμα της κατάστασης"
+
+msgid "pres_ib_location_turned_on"
+msgstr "Η τοποθεσία εμφανίζεται στο μήνυμα της κατάστασης"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "Απαιτείται σύνδεση στο διαδίκτυο"
+
+msgid "pres_ib_must_be_online"
+msgstr " Η διαθεσιμότητα πρέπει να είναι σε κατάσταση \"ενεργός\" για να \n πραγματοποιηθεί αυτή η δραστηριότητα "
+
+msgid "pres_ib_network_error"
+msgstr "Το δίκτυο αποσυνδέθηκε"
+
+msgid "pres_ib_server_error"
+msgstr "Η υπηρεσία δεν ανταποκρίνεται"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "Αδυναμία σύνδεσης σε έναν ή περισσότερους λογαριασμούς"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "Αποτυχία ταυτοποίησης."
+
+msgid "pres_li_encryption_error"
+msgstr "Σφάλμα κρυπτογράφησης"
+
+msgid "pres_li_error_certificate"
+msgstr "Σφάλμα πιστοποιητικού"
+
+msgid "pres_li_error_name_in_use"
+msgstr "Λογαριασμός σε χρήση"
+
+msgid "pres_li_network_error"
+msgstr "Σφάλμα δικτύου"
+
+msgid "pres_nc_delete_status"
+msgstr "Διαγραφή κατάστασης '%s';"
+
+msgid "pres_ni_error_no_name"
+msgstr "Το όνομα της κατάστασης είναι απαραίτητο  "
+
+msgid "pres_ni_error_same_status_name"
+msgstr "Το όνομα της κατάστασης ήδη υπάρχει. Δώστε άλλη κατάσταση."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "Διαθεσιμότητα"
+
+msgid "pres_ti_edit_status"
+msgstr "Επεξεργασία κατάστασης"
+
+msgid "pres_ti_location_level_title"
+msgstr "Η τοποθεσία μου"
+
+msgid "pres_ti_new_status"
+msgstr "Νέα κατάσταση"
+
+msgid "pres_ti_select_icon"
+msgstr "Επιλέξτε εικονίδιο"
+
+msgid "pres_ti_select_status"
+msgstr "Επιλέξτε την κατάσταση την οποία θα επεξεργαστείτε"
+
+msgid "pres_ti_set_presence_title"
+msgstr "Η διαθεσιμότητά μου"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "Διαθεσιμότητα"
