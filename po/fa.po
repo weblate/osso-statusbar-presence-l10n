@@ -1,0 +1,229 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2011-11-06 14:52+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "pres_ap_feature_name"
+msgstr "در دسترس بودن"
+
+msgid "pres_bd_gtalk_available"
+msgstr " در دسترس"
+
+msgid "pres_bd_gtalk_away"
+msgstr "بیرون از"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "مشغول"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "خارج شدن از حساب کاربری"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "مزاحم نشوید"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "مخفی"
+
+msgid "pres_bd_jabber_offline"
+msgstr "عدم حضور"
+
+msgid "pres_bd_jabber_online"
+msgstr "حاضر"
+
+msgid "pres_bd_location"
+msgstr "موقعیت من"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "در دسترس"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "مزاحم نشوید"
+
+msgid "pres_bd_nokia_offline"
+msgstr "عدم حضور"
+
+msgid "pres_bd_presence_new_status"
+msgstr "وضعیت جدید"
+
+msgid "pres_bd_presence_personalise"
+msgstr "ویرایش وضعیت"
+
+msgid "pres_bd_sip_offline"
+msgstr "عدم حضور"
+
+msgid "pres_bd_sip_online"
+msgstr "حاضر"
+
+msgid "pres_bd_skype_away"
+msgstr "بیرون از"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "مزاحم نشوید"
+
+msgid "pres_bd_skype_invisible"
+msgstr "مخفی"
+
+msgid "pres_bd_skype_offline"
+msgstr "عدم حضور"
+
+msgid "pres_bd_skype_online"
+msgstr "حاضر"
+
+msgid "pres_fi_accounts"
+msgstr "حساب‌های کاربری"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "تنها یک %s آیا می‌خواهید.می‌تواند فعال باشد %s را فعال کنید و سایر حساب‌ها غیر فعال شوند?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "دفعه‌ی بعد این را نشان نده"
+
+msgid "pres_fi_location_level_city"
+msgstr "سطح شهر"
+
+msgid "pres_fi_location_level_district"
+msgstr "سطح ناحیه"
+
+msgid "pres_fi_location_level_none"
+msgstr "نمایش نده"
+
+msgid "pres_fi_location_level_street"
+msgstr "سطح خیابان"
+
+msgid "pres_fi_location_turned_on"
+msgstr "این مکان به عنوان بخشی از گزارش پیام وضعیت شما با مخاطبین مشترک شما ، هنگام ورود به هر سرویسی که این قابلیت را پشتیبانی کند ، به اشتراک گذاشته می‌شود. \n\nشرایط و ضوابط برنامه را قبل از استفاده از چنین سرویسی بخوانید"
+
+msgid "pres_fi_new_status_name"
+msgstr "نام"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "گزارش وضعیت خود را در این مکان وارد کنید"
+
+msgid "pres_fi_status_busy"
+msgstr "مشغول"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "پیام وضعیت خود را وارد کنید"
+
+msgid "pres_fi_status_offline"
+msgstr "عدم حضور"
+
+msgid "pres_fi_status_online"
+msgstr "حاضر"
+
+msgid "pres_ib_authentication_error"
+msgstr "کلمه‌ی عبور اشتباه است"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "گواهی اس‌اس‌ال منقضی شده است"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "اثر انگشت گواهی اس‌اس‌ال تطابق ندارد"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "خطا در گواهینامه‌ی اس‌اس‌ال"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "خطا در سند گواهی اس‌اس‌ال"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "گواهینامه‌ی اس‌اس‌ال فعال نشده است"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "گواهینامه‌ی اس‌اس‌ال پیدا نشد"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "گواهینامه‌ی اس‌اس‌ال از پیش امضا شده است"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "گواهینامه‌ی اس‌اس‌ال قابل اعتماد نیست"
+
+msgid "pres_ib_location_turned_off"
+msgstr "موقعیت در پیام وضعیت نمایش داده نمی‌شود"
+
+msgid "pres_ib_location_turned_on"
+msgstr "موقعیت در پیام وضعیت نمایش داده می‌شود"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "ارتباط به شبکه مورد نیاز است"
+
+msgid "pres_ib_must_be_online"
+msgstr "برای انجام این عملیات باید دسترس پذیری آنلاین باشد"
+
+msgid "pres_ib_network_error"
+msgstr "ارتباط شبکه قطع شد"
+
+msgid "pres_ib_server_error"
+msgstr "خدمات پاسخ نمی‌دهد"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "قادر به اتصال به یک یا چند حساب کاربری نیست."
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "احراز هویت ناموفق بود."
+
+msgid "pres_li_encryption_error"
+msgstr "تصدیق کردن ناموفق بود"
+
+msgid "pres_li_error_certificate"
+msgstr "خطا در گواهینامه"
+
+msgid "pres_li_error_name_in_use"
+msgstr "حساب کاربری در حال استفاده است"
+
+msgid "pres_li_network_error"
+msgstr "خطا در شبکه"
+
+msgid "pres_nc_delete_status"
+msgstr "حذف وضعیت '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "نام وضعیت ضروری است"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "نام وضعیت در حال حاضر وجود دارد.وضعیت دیگری ارایه دهید."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "در دسترس بودن"
+
+msgid "pres_ti_edit_status"
+msgstr "ویرایش وضعیت"
+
+msgid "pres_ti_location_level_title"
+msgstr "موقعیت من"
+
+msgid "pres_ti_new_status"
+msgstr "وضعیت جدید"
+
+msgid "pres_ti_select_icon"
+msgstr "انتخاب شمایل"
+
+msgid "pres_ti_select_status"
+msgstr "انتخاب وضعیت برای ویرایش"
+
+msgid "pres_ti_set_presence_title"
+msgstr "در دسترس بودن من"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "در دسترس بودن"
