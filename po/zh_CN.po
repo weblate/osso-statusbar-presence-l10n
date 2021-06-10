@@ -1,0 +1,228 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.26 14:38+0200\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "pres_ap_feature_name"
+msgstr "在线状态"
+
+msgid "pres_bd_gtalk_available"
+msgstr "在线"
+
+msgid "pres_bd_gtalk_away"
+msgstr "离开"
+
+msgid "pres_bd_gtalk_busy"
+msgstr "繁忙"
+
+msgid "pres_bd_gtalk_signout"
+msgstr "登出"
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr "请勿打扰"
+
+msgid "pres_bd_jabber_invisible"
+msgstr "隐身"
+
+msgid "pres_bd_jabber_offline"
+msgstr "离线"
+
+msgid "pres_bd_jabber_online"
+msgstr "在线"
+
+msgid "pres_bd_location"
+msgstr "我的位置"
+
+msgid "pres_bd_location_level"
+msgstr "%s"
+
+msgid "pres_bd_nokia_available"
+msgstr "在线"
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr "请勿打扰"
+
+msgid "pres_bd_nokia_offline"
+msgstr "离线"
+
+msgid "pres_bd_presence_new_status"
+msgstr "新建状态"
+
+msgid "pres_bd_presence_personalise"
+msgstr "编辑状态"
+
+msgid "pres_bd_sip_offline"
+msgstr "离线"
+
+msgid "pres_bd_sip_online"
+msgstr "在线"
+
+msgid "pres_bd_skype_away"
+msgstr "离开"
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr "请勿打扰"
+
+msgid "pres_bd_skype_invisible"
+msgstr "隐身"
+
+msgid "pres_bd_skype_offline"
+msgstr "离线"
+
+msgid "pres_bd_skype_online"
+msgstr "在线"
+
+msgid "pres_fi_accounts"
+msgstr "帐户"
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr "仅%s帐户可被激活. 启用%s帐户并禁用其余帐户?"
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr "下次不再提示"
+
+msgid "pres_fi_location_level_city"
+msgstr "城市级别"
+
+msgid "pres_fi_location_level_district"
+msgstr "区域级别"
+
+msgid "pres_fi_location_level_none"
+msgstr "不显示"
+
+msgid "pres_fi_location_level_street"
+msgstr "街道级别"
+
+msgid "pres_fi_location_turned_on"
+msgstr "当您登入支持状态信息的任何服务时讯息的一部分共享至其它联系人.\n\n请在使用前阅读任何此类服务的使用适用的条款"
+
+msgid "pres_fi_new_status_name"
+msgstr "名称"
+
+msgid "pres_fi_personalised_status_name"
+msgstr "请输入状态名称"
+
+msgid "pres_fi_status_busy"
+msgstr "繁忙"
+
+msgid "pres_fi_status_message_default_text"
+msgstr "请输入您的状态消息"
+
+msgid "pres_fi_status_offline"
+msgstr "离线"
+
+msgid "pres_fi_status_online"
+msgstr "在线"
+
+msgid "pres_ib_authentication_error"
+msgstr "密码错误"
+
+msgid "pres_ib_error_certificate_expired"
+msgstr "服务器的SSL证书已过期"
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr "服务器的SSL证书没有相应的指纹"
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr "验证服务器SSL证书遇到未知错误"
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr "服务器的SSL证书与网站名不符"
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr "服务器的SSL证书尚未激活"
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr "无法找到服务器SSL证书"
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr "服务器使用自签名的SSL证书"
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr "无法信任服务器的SSL证书"
+
+msgid "pres_ib_location_turned_off"
+msgstr "您的位置未显示在状态信息当中"
+
+msgid "pres_ib_location_turned_on"
+msgstr "地理位置信息已打开"
+
+msgid "pres_ib_must_be_network_connected"
+msgstr "需要网络连接"
+
+msgid "pres_ib_must_be_online"
+msgstr "必须在线才能进行此项操作"
+
+msgid "pres_ib_network_error"
+msgstr "网络连接已断开"
+
+msgid "pres_ib_server_error"
+msgstr "服务没有响应"
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr "无法连接到一个或多个账户"
+
+msgid "pres_li_account_with_error"
+msgstr "%s"
+
+msgid "pres_li_authentication_error"
+msgstr "认证请求失败."
+
+msgid "pres_li_encryption_error"
+msgstr "加密错误"
+
+msgid "pres_li_error_certificate"
+msgstr "证书错误"
+
+msgid "pres_li_error_name_in_use"
+msgstr "帐户已被使用"
+
+msgid "pres_li_network_error"
+msgstr "网络错误"
+
+msgid "pres_nc_delete_status"
+msgstr "删除状态 '%s'?"
+
+msgid "pres_ni_error_no_name"
+msgstr "需要状态名称"
+
+msgid "pres_ni_error_same_status_name"
+msgstr "状态名称已存在. 请重新命名."
+
+msgid "pres_smplugin_fi_status_message"
+msgstr "%s"
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr "状态"
+
+msgid "pres_ti_edit_status"
+msgstr "编辑状态"
+
+msgid "pres_ti_location_level_title"
+msgstr "我的位置"
+
+msgid "pres_ti_new_status"
+msgstr "新建状态"
+
+msgid "pres_ti_select_icon"
+msgstr "选择图标"
+
+msgid "pres_ti_select_status"
+msgstr "选择要编辑的状态"
+
+msgid "pres_ti_set_presence_title"
+msgstr "我的状态"
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr "在线状态"
