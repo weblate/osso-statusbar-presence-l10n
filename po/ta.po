@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-presence 20100104144738\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "pres_ap_feature_name"
+msgstr ""
+
+msgid "pres_bd_gtalk_available"
+msgstr ""
+
+msgid "pres_bd_gtalk_away"
+msgstr ""
+
+msgid "pres_bd_gtalk_busy"
+msgstr ""
+
+msgid "pres_bd_gtalk_signout"
+msgstr ""
+
+msgid "pres_bd_jabber_do_not_disturb"
+msgstr ""
+
+msgid "pres_bd_jabber_invisible"
+msgstr ""
+
+msgid "pres_bd_jabber_offline"
+msgstr ""
+
+msgid "pres_bd_jabber_online"
+msgstr ""
+
+msgid "pres_bd_location"
+msgstr ""
+
+msgid "pres_bd_location_level"
+msgstr ""
+
+msgid "pres_bd_nokia_available"
+msgstr ""
+
+msgid "pres_bd_nokia_do_not_disturb"
+msgstr ""
+
+msgid "pres_bd_nokia_offline"
+msgstr ""
+
+msgid "pres_bd_presence_new_status"
+msgstr ""
+
+msgid "pres_bd_presence_personalise"
+msgstr ""
+
+msgid "pres_bd_sip_offline"
+msgstr ""
+
+msgid "pres_bd_sip_online"
+msgstr ""
+
+msgid "pres_bd_skype_away"
+msgstr ""
+
+msgid "pres_bd_skype_do_not_disturb"
+msgstr ""
+
+msgid "pres_bd_skype_invisible"
+msgstr ""
+
+msgid "pres_bd_skype_offline"
+msgstr ""
+
+msgid "pres_bd_skype_online"
+msgstr ""
+
+msgid "pres_fi_accounts"
+msgstr ""
+
+msgid "pres_fi_check_online_skype_accounts"
+msgstr ""
+
+msgid "pres_fi_do_not_show_this_anymore"
+msgstr ""
+
+msgid "pres_fi_location_level_city"
+msgstr ""
+
+msgid "pres_fi_location_level_district"
+msgstr ""
+
+msgid "pres_fi_location_level_none"
+msgstr ""
+
+msgid "pres_fi_location_level_street"
+msgstr ""
+
+msgid "pres_fi_location_turned_on"
+msgstr ""
+
+msgid "pres_fi_new_status_name"
+msgstr ""
+
+msgid "pres_fi_personalised_status_name"
+msgstr ""
+
+msgid "pres_fi_status_busy"
+msgstr ""
+
+msgid "pres_fi_status_message_default_text"
+msgstr ""
+
+msgid "pres_fi_status_offline"
+msgstr ""
+
+msgid "pres_fi_status_online"
+msgstr ""
+
+msgid "pres_ib_authentication_error"
+msgstr ""
+
+msgid "pres_ib_error_certificate_expired"
+msgstr ""
+
+msgid "pres_ib_error_certificate_fingerprint_mismatch"
+msgstr ""
+
+msgid "pres_ib_error_certificate_general_error"
+msgstr ""
+
+msgid "pres_ib_error_certificate_hostname_mismatch"
+msgstr ""
+
+msgid "pres_ib_error_certificate_not_activated"
+msgstr ""
+
+msgid "pres_ib_error_certificate_not_found"
+msgstr ""
+
+msgid "pres_ib_error_certificate_selfsigned"
+msgstr ""
+
+msgid "pres_ib_error_certificate_untrusted"
+msgstr ""
+
+msgid "pres_ib_location_turned_off"
+msgstr ""
+
+msgid "pres_ib_location_turned_on"
+msgstr ""
+
+msgid "pres_ib_must_be_network_connected"
+msgstr ""
+
+msgid "pres_ib_must_be_online"
+msgstr ""
+
+msgid "pres_ib_network_error"
+msgstr ""
+
+msgid "pres_ib_server_error"
+msgstr ""
+
+msgid "pres_ib_unable_to_connect_to_service"
+msgstr ""
+
+msgid "pres_li_account_with_error"
+msgstr ""
+
+msgid "pres_li_authentication_error"
+msgstr ""
+
+msgid "pres_li_encryption_error"
+msgstr ""
+
+msgid "pres_li_error_certificate"
+msgstr ""
+
+msgid "pres_li_error_name_in_use"
+msgstr ""
+
+msgid "pres_li_network_error"
+msgstr ""
+
+msgid "pres_nc_delete_status"
+msgstr ""
+
+msgid "pres_ni_error_no_name"
+msgstr ""
+
+msgid "pres_ni_error_same_status_name"
+msgstr ""
+
+msgid "pres_smplugin_fi_status_message"
+msgstr ""
+
+msgid "pres_smplugin_ti_presence_title"
+msgstr ""
+
+msgid "pres_ti_edit_status"
+msgstr ""
+
+msgid "pres_ti_location_level_title"
+msgstr ""
+
+msgid "pres_ti_new_status"
+msgstr ""
+
+msgid "pres_ti_select_icon"
+msgstr ""
+
+msgid "pres_ti_select_status"
+msgstr ""
+
+msgid "pres_ti_set_presence_title"
+msgstr ""
+
+msgid "tncpa_li_plugin_sb_presence"
+msgstr ""
