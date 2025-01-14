@@ -3,224 +3,231 @@ msgstr ""
 "Project-Id-Version: osso-statusbar-presence 20100104144738\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.01.04 14:47+0200\n"
-"PO-Revision-Date: 2010.01.04 14:47+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-15 04:52+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-statusbar-presence-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "pres_ap_feature_name"
-msgstr ""
+msgstr "கிடைக்கும் தன்மை"
 
 msgid "pres_bd_gtalk_available"
-msgstr ""
+msgstr "கிடைக்கிறது"
 
 msgid "pres_bd_gtalk_away"
-msgstr ""
+msgstr "தொலைவில்"
 
 msgid "pres_bd_gtalk_busy"
-msgstr ""
+msgstr "பிசியாக"
 
 msgid "pres_bd_gtalk_signout"
-msgstr ""
+msgstr "விடுபதிகை"
 
 msgid "pres_bd_jabber_do_not_disturb"
-msgstr ""
+msgstr "தொந்தரவு செய்ய வேண்டாம்"
 
 msgid "pres_bd_jabber_invisible"
-msgstr ""
+msgstr "கண்ணுக்கு தெரியாத"
 
 msgid "pres_bd_jabber_offline"
-msgstr ""
+msgstr "இணையமில்லாமல்"
 
 msgid "pres_bd_jabber_online"
-msgstr ""
+msgstr "ஆன்லைனில்"
 
 msgid "pres_bd_location"
-msgstr ""
+msgstr "எனது இருப்பிடம்"
 
 msgid "pres_bd_location_level"
-msgstr ""
+msgstr "%s"
 
 msgid "pres_bd_nokia_available"
-msgstr ""
+msgstr "கிடைக்கிறது"
 
 msgid "pres_bd_nokia_do_not_disturb"
-msgstr ""
+msgstr "தொந்தரவு செய்ய வேண்டாம்"
 
 msgid "pres_bd_nokia_offline"
-msgstr ""
+msgstr "இணையமில்லாமல்"
 
 msgid "pres_bd_presence_new_status"
-msgstr ""
+msgstr "புதிய நிலை"
 
 msgid "pres_bd_presence_personalise"
-msgstr ""
+msgstr "நிலையைத் திருத்தவும்"
 
 msgid "pres_bd_sip_offline"
-msgstr ""
+msgstr "இணையமில்லாமல்"
 
 msgid "pres_bd_sip_online"
-msgstr ""
+msgstr "ஆன்லைனில்"
 
 msgid "pres_bd_skype_away"
-msgstr ""
+msgstr "தொலைவில்"
 
 msgid "pres_bd_skype_do_not_disturb"
-msgstr ""
+msgstr "தொந்தரவு செய்ய வேண்டாம்"
 
 msgid "pres_bd_skype_invisible"
-msgstr ""
+msgstr "கண்ணுக்கு தெரியாத"
 
 msgid "pres_bd_skype_offline"
-msgstr ""
+msgstr "இணையமில்லாமல்"
 
 msgid "pres_bd_skype_online"
-msgstr ""
+msgstr "ஆன்லைனில்"
 
 msgid "pres_fi_accounts"
-msgstr ""
+msgstr "கணக்குகள்"
 
 msgid "pres_fi_check_online_skype_accounts"
 msgstr ""
+"ஒரு %s கணக்கு மட்டுமே செயலில் இருக்க முடியும். %s ஐ செயல்படுத்தி மற்றவர்களை முடக்கவா?"
 
 msgid "pres_fi_do_not_show_this_anymore"
-msgstr ""
+msgstr "இதை அடுத்த முறை காட்ட வேண்டாம்"
 
 msgid "pres_fi_location_level_city"
-msgstr ""
+msgstr "நகர நிலை"
 
 msgid "pres_fi_location_level_district"
-msgstr ""
+msgstr "மாவட்ட நிலை"
 
 msgid "pres_fi_location_level_none"
-msgstr ""
+msgstr "காட்ட வேண்டாம்"
 
 msgid "pres_fi_location_level_street"
-msgstr ""
+msgstr "தெரு நிலை"
 
 msgid "pres_fi_location_turned_on"
 msgstr ""
+"இந்த இடம் உங்கள் நிலை செய்தியின் ஒரு பகுதியாக தொடர்புகளுக்கு அனுப்பப்படும்.\n"
+"\n"
+" அத்தகைய சேவையைப் பயன்படுத்துவதற்கு முன்பு பொருந்தக்கூடிய பயன்பாட்டு விதிமுறைகளைப் "
+"படியுங்கள்."
 
 msgid "pres_fi_new_status_name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "pres_fi_personalised_status_name"
-msgstr ""
+msgstr "உள்ளீட்டு நிலை பெயர் இங்கே"
 
 msgid "pres_fi_status_busy"
-msgstr ""
+msgstr "பிசியாக"
 
 msgid "pres_fi_status_message_default_text"
-msgstr ""
+msgstr "உங்கள் நிலை செய்தியைத் தட்டச்சு செய்க"
 
 msgid "pres_fi_status_offline"
-msgstr ""
+msgstr "இணையமில்லாமல்"
 
 msgid "pres_fi_status_online"
-msgstr ""
+msgstr "ஆன்லைனில்"
 
 msgid "pres_ib_authentication_error"
-msgstr ""
+msgstr "தவறான கடவுச்சொல்"
 
 msgid "pres_ib_error_certificate_expired"
-msgstr ""
+msgstr "எச்எச்எல் சான்றிதழ் காலாவதியானது"
 
 msgid "pres_ib_error_certificate_fingerprint_mismatch"
-msgstr ""
+msgstr "எச்எச்எல் சான்றிதழ் கைரேகை பொருந்தாதது"
 
 msgid "pres_ib_error_certificate_general_error"
-msgstr ""
+msgstr "SSL சான்றிதழ் பிழை"
 
 msgid "pres_ib_error_certificate_hostname_mismatch"
-msgstr ""
+msgstr "SSL சான்றிதழ் அங்கீகார பிழை"
 
 msgid "pres_ib_error_certificate_not_activated"
-msgstr ""
+msgstr "எச்எச்எல் சான்றிதழ் செயல்படுத்தப்படவில்லை"
 
 msgid "pres_ib_error_certificate_not_found"
-msgstr ""
+msgstr "எச்எச்எல் சான்றிதழ் கிடைக்கவில்லை"
 
 msgid "pres_ib_error_certificate_selfsigned"
-msgstr ""
+msgstr "எச்எச்எல் சான்றிதழ் தன்வய கையெழுத்திட்டது"
 
 msgid "pres_ib_error_certificate_untrusted"
-msgstr ""
+msgstr "SSL சான்றிதழை நம்ப முடியவில்லை"
 
 msgid "pres_ib_location_turned_off"
-msgstr ""
+msgstr "நிலை செய்தியில் இடம் காட்டப்படவில்லை"
 
 msgid "pres_ib_location_turned_on"
-msgstr ""
+msgstr "நிலை செய்தியில் காட்டப்பட்டுள்ள இடம்"
 
 msgid "pres_ib_must_be_network_connected"
-msgstr ""
+msgstr "இணைய இணைப்பு தேவை"
 
 msgid "pres_ib_must_be_online"
-msgstr ""
+msgstr "இந்த செயலைச் செய்ய கிடைப்பது ஆன்லைனில் இருக்க வேண்டும்"
 
 msgid "pres_ib_network_error"
-msgstr ""
+msgstr "பிணையம் துண்டிக்கப்பட்டது"
 
 msgid "pres_ib_server_error"
-msgstr ""
+msgstr "பணி பதிலளிக்கவில்லை"
 
 msgid "pres_ib_unable_to_connect_to_service"
-msgstr ""
+msgstr "ஒன்று அல்லது அதற்கு மேற்பட்ட கணக்குகளுடன் இணைக்க முடியவில்லை"
 
 msgid "pres_li_account_with_error"
-msgstr ""
+msgstr "%s"
 
 msgid "pres_li_authentication_error"
-msgstr ""
+msgstr "ஏற்பு தோல்வியடைந்தது."
 
 msgid "pres_li_encryption_error"
-msgstr ""
+msgstr "குறியாக்க பிழை"
 
 msgid "pres_li_error_certificate"
-msgstr ""
+msgstr "சான்றிதழ் பிழை"
 
 msgid "pres_li_error_name_in_use"
-msgstr ""
+msgstr "பயன்பாட்டில் உள்ள கணக்கு"
 
 msgid "pres_li_network_error"
-msgstr ""
+msgstr "பிணைய பிழை"
 
 msgid "pres_nc_delete_status"
-msgstr ""
+msgstr "நிலையை நீக்கவா?"
 
 msgid "pres_ni_error_no_name"
-msgstr ""
+msgstr "நிலை பெயர் தேவை"
 
 msgid "pres_ni_error_same_status_name"
-msgstr ""
+msgstr "நிலை பெயர் ஏற்கனவே உள்ளது. மற்றொரு அந்தச்தைக் கொடுங்கள்."
 
 msgid "pres_smplugin_fi_status_message"
-msgstr ""
+msgstr "%s"
 
 msgid "pres_smplugin_ti_presence_title"
-msgstr ""
+msgstr "கிடைக்கும் தன்மை"
 
 msgid "pres_ti_edit_status"
-msgstr ""
+msgstr "நிலையைத் திருத்தவும்"
 
 msgid "pres_ti_location_level_title"
-msgstr ""
+msgstr "எனது இருப்பிடம்"
 
 msgid "pres_ti_new_status"
-msgstr ""
+msgstr "புதிய நிலை"
 
 msgid "pres_ti_select_icon"
-msgstr ""
+msgstr "ஐகானைத் தேர்ந்தெடுக்கவும்"
 
 msgid "pres_ti_select_status"
-msgstr ""
+msgstr "திருத்த நிலையைத் தேர்ந்தெடுக்கவும்"
 
 msgid "pres_ti_set_presence_title"
-msgstr ""
+msgstr "எனது கிடைக்கும் தன்மை"
 
 msgid "tncpa_li_plugin_sb_presence"
-msgstr ""
+msgstr "கிடைக்கும் தன்மை"
